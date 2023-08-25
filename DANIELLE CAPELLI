@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<nav class="navbar bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">
+      <img src="/d03a382d-20a1-40f3-806b-9861796717bd.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
+      Bootstrap
+    </a>
+  </div>
+</nav>
