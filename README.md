@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html
-  <title>Danielle Capelli</title>
   <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-widith, initial-scale=1, shrink-to-fit=no"/>
@@ -14,9 +13,9 @@
     <link rel="stylesheet" type="text/css" href="/css/common.css"/>
     <link rel="stylesheet" type="text/css" href="/css/fonts.css"/>
     <link rel="stylesheet" type="text/css" href="/css/Portfolio.css"/>
-    <script type="text/javascript" src="https://unpg.com/aos@2.3.1/dis/aos.js></script>
-    <script type="text/javascript" src="https://unpg.com/sticky-js@1.3.0/dis/sticky.min.js></script>
-    <script type="text/javascript" src="https://unpg.com/headroom.js@0.12.0/dist/headroom.min.js></script>
+    <script type="text" src="https://unpg.com/aos@2.3.1/dis/aos.js></script>
+    <script type="text" src="https://unpg.com/sticky-js@1.3.0/dis/sticky.min.js></script>
+    <script type="text" src="https://unpg.com/headroom.js@0.12.0/dist/headroom.min.js></script>
   </head>
   
   <body class="flex-column">
